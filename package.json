@@ -1,0 +1,26 @@
+{
+  "name": "project-v3",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "core-js": "^3.6.5",
+    "echarts": "^4.9.0",
+    "element-plus": "^2.2.2",
+    "font-awesome": "^4.7.0",
+    "less": "^3.13.1",
+    "less-loader": "^7.3.0",
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.15"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.15",
+    "@vue/cli-service": "~4.5.15",
+    "@vue/compiler-sfc": "^3.0.0"
+  }
+}
